@@ -22,3 +22,4 @@ I can find as the number in the head of the file name.
 20.[改变边框半径的值](https://github.com/zhangyufeng0123/html_develop/blob/master/20.Make%20Circular%20Images%20with%20a%20Border%20Radius.html)  
 21.[链接外部实现跳转](https://github.com/zhangyufeng0123/html_develop/blob/master/21.Link%20to%20External%20Pages%20with%20Anchor%20Elements.html)  
 22.[链接进阶](https://github.com/zhangyufeng0123/html_develop/blob/master/22.Nest%20an%20Anchor%20Element%20within%20a%20Paragraph.html)  
+23.[链接值固定 #](https://github.com/zhangyufeng0123/html_develop/blob/master/23.Make%20Dead%20Links%20using%20the%20Hash%20Symbol.html)  
