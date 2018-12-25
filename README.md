@@ -10,3 +10,5 @@ I can find as the number in the head of the file name.
 8.[改变文本的颜色](https://github.com/zhangyufeng0123/html_develop/blob/master/8.Change%20the%20Color%20of%20Text%20.html)  
 9.[用CSS的层叠样式表](https://github.com/zhangyufeng0123/html_develop/blob/master/9.Use%20CSS%20Selectors%20to%20Style%20Elements.html)  
 10.[类选择器](https://github.com/zhangyufeng0123/html_develop/blob/master/10.Use%20a%20CSS%20Class%20to%20Style%20an%20Element.html)  
+11.[类选择器进阶](https://github.com/zhangyufeng0123/html_develop/blob/master/11.Style%20Multiple%20Elements%20with%20a%20CSS%20Class.html)  
+12.[改变字的大小](https://github.com/zhangyufeng0123/html_develop/blob/master/12.Change%20the%20Font%20Size%20of%20an%20Element.html)  
