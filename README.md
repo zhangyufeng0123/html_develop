@@ -24,3 +24,4 @@ I can find as the number in the head of the file name.
 22.[链接进阶](https://github.com/zhangyufeng0123/html_develop/blob/master/22.Nest%20an%20Anchor%20Element%20within%20a%20Paragraph.html)  
 23.[链接值固定 #](https://github.com/zhangyufeng0123/html_develop/blob/master/23.Make%20Dead%20Links%20using%20the%20Hash%20Symbol.html)  
 24.[将图片变成链接的入口](https://github.com/zhangyufeng0123/html_develop/blob/master/24.Turn%20an%20Image%20into%20a%20Link.html)  
+25.[图片无法加载时的替代文本](https://github.com/zhangyufeng0123/html_develop/blob/master/25.Add%20Alt%20Text%20to%20an%20Image%20for%20Accessibility.html)  
