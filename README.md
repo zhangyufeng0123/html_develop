@@ -30,3 +30,7 @@ I can find as the number in the head of the file name.
 28.[创建文本输入框](https://github.com/zhangyufeng0123/html_develop/blob/master/28.Create%20a%20Text%20Field.html)  
 29.[文本框中的占位符](https://github.com/zhangyufeng0123/html_develop/blob/master/29.Add%20Placeholder%20Text%20to%20a%20Text%20Field.html)  
 30.[构建可以和服务器交互的Web表单（form）](https://github.com/zhangyufeng0123/html_develop/blob/master/30.Create%20a%20Form%20Element.html)  
+31.[增加一个提交按钮](https://github.com/zhangyufeng0123/html_develop/blob/master/31.Add%20a%20Submit%20Button%20to%20a%20Form.html)  
+33.[选择题](https://github.com/zhangyufeng0123/html_develop/blob/master/33.Create%20a%20Set%20of%20Radio%20Buttons.html)  
+34.[多选按钮](https://github.com/zhangyufeng0123/html_develop/blob/master/34.Create%20a%20Set%20of%20Checkboxes.html)  
+35.[设置复选按钮和单选按钮(checked)](https://github.com/zhangyufeng0123/html_develop/blob/master/35.Check%20Radio%20Buttons%20and%20Checkboxes%20by%20Default.html)  
